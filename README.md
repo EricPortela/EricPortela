@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there my name is Eric 👋
+
+📚 Currently studying my last year B.Sc. Computer Science & Engineering @ LTH, graduate in June of 2024.
 
 <!--
 **EricPortela/EricPortela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
