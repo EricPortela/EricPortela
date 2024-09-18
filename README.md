@@ -17,7 +17,7 @@ https://ericportela.github.io/#/work
 
 #### Finalytica
 - ⚡ I'm currently working on my side-project Finalytica - The idea is to eventually become a financial data provider for publibly listed companies. Currently I am working on a websiote that will provide holdings data for mutual funds reported quarterly.
-- 👁️ The vision for Finalytica app is to supply with a seamless experience providing fundamental data for publicly listed companies on NYSE and NASDAQ. It aims to offer forecasting of financial statements, DCF's and all-in-all provide a screening tool for stock picking.
+- 👁️ The vision for Finalytica app is provide fundamental data for publicly listed companies on NYSE and NASDAQ. It aims to offer forecasting of financial statements, DCF's and all-in-all provide a screening tool for stock picking.
 - 🐦 Twitter (Finalytica): https://twitter.com/finalytica
 - 📸 Instagram (Finalytica): https://www.instagram.com/finalytica/
 - 🤔 Interested in supporting and joining me? Contact me on linkedin: https://www.linkedin.com/in/ericportela/
