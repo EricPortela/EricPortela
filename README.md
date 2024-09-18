@@ -1,5 +1,8 @@
 ### Hi there my name is Eric | prev Spotify + IKEA 👋
 
+#### Portfolio
+https://ericportela.github.io/#/work
+
 #### About me / Right now
 - 🕺🏻 24 years, based in Sweden
 - 📚 Currently studying my 1st year M.Sc. Computer Science & Engineering @ LTH (graduating around 2026).
