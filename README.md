@@ -16,7 +16,7 @@ https://ericportela.github.io/#/work
 - 🇰🇷 Korea University ISC June 2024
 
 #### Finalytica
-- ⚡ I'm currently working on my side-project Finalytica - The idea is to eventually become a financial data provider for publibly listed companies. Currently I am working on a websiote that will provide holdings data for mutual funds reported quarterly.
+- ⚡ I'm currently working on my side-project Finalytica - The idea is to eventually become a financial data provider for publibly listed companies. Currently I am working on a website that will provide holdings data for mutual funds reported quarterly, possibly with some ML application.
 - 👁️ The vision for Finalytica app is provide fundamental data for publicly listed companies on NYSE and NASDAQ. It aims to offer forecasting of financial statements, DCF's and all-in-all provide a screening tool for stock picking.
 - 🐦 Twitter (Finalytica): https://twitter.com/finalytica
 - 📸 Instagram (Finalytica): https://www.instagram.com/finalytica/
