@@ -1,5 +1,7 @@
 ### Hi there my name is Eric | prev Spotify + IKEA 👋
 
+![Profile views](https://komarev.com/ghpvc/?username=EricPortela&color=blue)
+
 #### Portfolio
 https://ericportela.github.io/#/work
 
