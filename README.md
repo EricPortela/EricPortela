@@ -23,12 +23,6 @@ https://ericportela.github.io/#/work
 - 📸 Instagram (Finalytica): https://www.instagram.com/finalytica/
 - 🤔 Interested in supporting and joining me? Contact me on linkedin: https://www.linkedin.com/in/ericportela/
 
-#### Fun facts
-- I'm part Korean, part Cuban
-- I happen to speak four languages (English, Swedish, Spanish and Russian)
-- Trying to learn Korean too! 🇰🇷
-- Been training Taekwondo since I was 10 and hold two bronze medals in the Swedish Championship:)
-
 <!-- [![Eric's GitHub stats](https://github-readme-stats.vercel.app/api?username=EricPortela&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 
